@@ -1,4 +1,4 @@
-# vechainvidtrix
+# Vechain Vidtrix
 
 ## Inspiration
 
